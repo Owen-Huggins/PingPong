@@ -1,0 +1,68 @@
+{
+  "players": {
+    "Owen": {
+      "elo": 1031,
+      "wins": 2,
+      "losses": 0,
+      "matches": [
+        {
+          "opponent": "Thomas",
+          "score": 21,
+          "opponentScore": 18,
+          "date": "2025-03-12T18:42:10.536Z"
+        },
+        {
+          "opponent": "Thomas",
+          "score": 21,
+          "opponentScore": 15,
+          "date": "2025-03-12T18:42:19.497Z"
+        }
+      ]
+    },
+    "Thomas": {
+      "elo": 969,
+      "wins": 0,
+      "losses": 2,
+      "matches": [
+        {
+          "opponent": "Owen",
+          "score": 18,
+          "opponentScore": 21,
+          "date": "2025-03-12T18:42:10.536Z"
+        },
+        {
+          "opponent": "Owen",
+          "score": 15,
+          "opponentScore": 21,
+          "date": "2025-03-12T18:42:19.497Z"
+        }
+      ]
+    },
+    "Spy": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "matches": [
+        {
+          "opponent": "West",
+          "score": 18,
+          "opponentScore": 21,
+          "date": "2025-03-12T19:03:33.027Z"
+        }
+      ]
+    },
+    "West": {
+      "elo": 1016,
+      "wins": 1,
+      "losses": 0,
+      "matches": [
+        {
+          "opponent": "Spy",
+          "score": 21,
+          "opponentScore": 18,
+          "date": "2025-03-12T19:03:33.027Z"
+        }
+      ]
+    }
+  }
+}
