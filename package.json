@@ -12,7 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2",
-    "harp": "^0.46.1"
+    "express": "^4.21.2"
   }
 }
