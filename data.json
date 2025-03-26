@@ -86,9 +86,9 @@
       ]
     },
     "Thomas": {
-      "elo": 962,
-      "wins": 7,
-      "losses": 12,
+      "elo": 973,
+      "wins": 8,
+      "losses": 13,
       "matches": [
         {
           "opponent": "Owen",
@@ -203,13 +203,25 @@
           "score": 21,
           "opponentScore": 23,
           "date": "2025-03-26T13:46:41.148Z"
+        },
+        {
+          "opponent": "Madie",
+          "score": 13,
+          "opponentScore": 21,
+          "date": "2025-03-26T18:45:54.748Z"
+        },
+        {
+          "opponent": "Madie",
+          "score": 25,
+          "opponentScore": 23,
+          "date": "2025-03-26T18:46:11.337Z"
         }
       ]
     },
     "Spy": {
-      "elo": 1042,
+      "elo": 1028,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "matches": [
         {
           "opponent": "West",
@@ -276,12 +288,18 @@
           "score": 21,
           "opponentScore": 19,
           "date": "2025-03-20T18:45:14.349Z"
+        },
+        {
+          "opponent": "West",
+          "score": 19,
+          "opponentScore": 21,
+          "date": "2025-03-26T18:46:54.091Z"
         }
       ]
     },
     "West": {
-      "elo": 1063,
-      "wins": 8,
+      "elo": 1089,
+      "wins": 10,
       "losses": 2,
       "matches": [
         {
@@ -343,6 +361,18 @@
           "score": 21,
           "opponentScore": 12,
           "date": "2025-03-25T19:03:33.057Z"
+        },
+        {
+          "opponent": "Edwards",
+          "score": 21,
+          "opponentScore": 11,
+          "date": "2025-03-26T18:46:38.182Z"
+        },
+        {
+          "opponent": "Spy",
+          "score": 21,
+          "opponentScore": 19,
+          "date": "2025-03-26T18:46:54.091Z"
         }
       ]
     },
@@ -450,9 +480,9 @@
       ]
     },
     "Madie": {
-      "elo": 1067,
-      "wins": 9,
-      "losses": 4,
+      "elo": 1056,
+      "wins": 10,
+      "losses": 5,
       "matches": [
         {
           "opponent": "Owen",
@@ -531,6 +561,18 @@
           "score": 21,
           "opponentScore": 13,
           "date": "2025-03-20T17:58:03.702Z"
+        },
+        {
+          "opponent": "Thomas",
+          "score": 21,
+          "opponentScore": 13,
+          "date": "2025-03-26T18:45:54.748Z"
+        },
+        {
+          "opponent": "Thomas",
+          "score": 23,
+          "opponentScore": 25,
+          "date": "2025-03-26T18:46:11.337Z"
         }
       ]
     },
@@ -572,9 +614,9 @@
       ]
     },
     "Edwards": {
-      "elo": 972,
+      "elo": 960,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "matches": [
         {
           "opponent": "West",
@@ -587,6 +629,12 @@
           "score": 10,
           "opponentScore": 21,
           "date": "2025-03-20T17:06:51.120Z"
+        },
+        {
+          "opponent": "West",
+          "score": 11,
+          "opponentScore": 21,
+          "date": "2025-03-26T18:46:38.182Z"
         }
       ]
     }
