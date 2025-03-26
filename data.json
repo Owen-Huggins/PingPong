@@ -1,8 +1,8 @@
 {
   "players": {
     "Owen": {
-      "elo": 908,
-      "wins": 3,
+      "elo": 927,
+      "wins": 4,
       "losses": 9,
       "matches": [
         {
@@ -76,13 +76,19 @@
           "score": 12,
           "opponentScore": 21,
           "date": "2025-03-25T19:03:33.057Z"
+        },
+        {
+          "opponent": "Thomas",
+          "score": 23,
+          "opponentScore": 21,
+          "date": "2025-03-26T13:46:41.148Z"
         }
       ]
     },
     "Thomas": {
-      "elo": 981,
+      "elo": 962,
       "wins": 7,
-      "losses": 11,
+      "losses": 12,
       "matches": [
         {
           "opponent": "Owen",
@@ -191,6 +197,12 @@
           "score": 21,
           "opponentScore": 20,
           "date": "2025-03-25T19:13:50.877Z"
+        },
+        {
+          "opponent": "Owen",
+          "score": 21,
+          "opponentScore": 23,
+          "date": "2025-03-26T13:46:41.148Z"
         }
       ]
     },

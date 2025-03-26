@@ -1,5 +1,4 @@
 {
-  "homepage": "https://owen-huggins.github.io/PingPong",
   "name": "local-ping-pong",
   "version": "1.0.0",
   "main": "server.js",
