@@ -298,8 +298,8 @@
       ]
     },
     "West": {
-      "elo": 1089,
-      "wins": 10,
+      "elo": 1099,
+      "wins": 11,
       "losses": 2,
       "matches": [
         {
@@ -373,6 +373,12 @@
           "score": 21,
           "opponentScore": 19,
           "date": "2025-03-26T18:46:54.091Z"
+        },
+        {
+          "opponent": "Edwards",
+          "score": 21,
+          "opponentScore": 9,
+          "date": "2025-03-27T18:30:38.464Z"
         }
       ]
     },
@@ -614,9 +620,9 @@
       ]
     },
     "Edwards": {
-      "elo": 960,
+      "elo": 950,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "matches": [
         {
           "opponent": "West",
@@ -635,6 +641,12 @@
           "score": 11,
           "opponentScore": 21,
           "date": "2025-03-26T18:46:38.182Z"
+        },
+        {
+          "opponent": "West",
+          "score": 9,
+          "opponentScore": 21,
+          "date": "2025-03-27T18:30:38.464Z"
         }
       ]
     }
